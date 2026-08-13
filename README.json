@@ -1,0 +1,481 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Data Access"
+    },
+    {
+      "description": "Specific to Copernicus Sentinel data discovery, download and processing.",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-10-02T09:22:49Z",
+            "owner": "sentinelsat",
+            "repo": "sentinelsat",
+            "stars": 1019
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-10T10:53:30Z",
+            "owner": "sentinel-hub",
+            "repo": "sentinelhub-py",
+            "stars": 908
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T07:21:18Z",
+            "owner": "CS-SI",
+            "repo": "eodag",
+            "stars": 424
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-09-30T17:19:55Z",
+            "owner": "olivierhagolle",
+            "repo": "Sentinel-download",
+            "stars": 194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-07-28T23:29:18Z",
+            "owner": "sat-utils",
+            "repo": "sat-api",
+            "stars": 178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-22T10:17:08Z",
+            "owner": "olivierhagolle",
+            "repo": "peps_download",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-03-28T07:25:06Z",
+            "owner": "flaviostutz",
+            "repo": "sentinelloader",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-06-30T18:50:42Z",
+            "owner": "sat-utils",
+            "repo": "sat-download",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2017-04-21T19:05:56Z",
+            "owner": "sinergise",
+            "repo": "Sentinel2ProductIngestor",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-07-16T12:15:51Z",
+            "owner": "kraftek",
+            "repo": "awsdownload",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-04-05T16:32:58Z",
+            "owner": "RemotePixel",
+            "repo": "aws-sat-api",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2018-04-07T15:14:08Z",
+            "owner": "brycejohnston",
+            "repo": "sentinel2-search-api",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2018-04-07T15:21:56Z",
+            "owner": "brycejohnston",
+            "repo": "sentinel2_aws",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Search & Download"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "jeobrowser \"Rocket\"",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "based on resto",
+              "description": "search engine and used as frontend for PEPS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "PHP",
+                "last_commit": "2026-07-31T13:58:33Z",
+                "owner": "jjrom",
+                "repo": "resto",
+                "stars": 61
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "RemotePixel \"Viewer\" (no longer active)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "uses",
+              "description": "(tiles server based on AWS Lambda)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2018-08-09T16:28:44Z",
+                "owner": "mapbox",
+                "repo": "sentinel-tiler",
+                "stars": 62
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "open source",
+              "description": "viewer for Landsat-8, Sentinel-2 and CBERS-4 data hosted by AWS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2019-07-15T13:48:42Z",
+                "owner": "RemotePixel",
+                "repo": "viewer.remotepixel.ca",
+                "stars": 28
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "RemotePixel \"Satellite Search\" (no longer active)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "uses",
+              "description": "(based on AWS Lambda)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2020-12-04T01:56:05Z",
+                "owner": "RemotePixel",
+                "repo": "remotepixel-api",
+                "stars": 62
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "open source",
+              "description": "Browser for Landsat-8 and Sentinel-2 data hosted by AWS",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "CSS",
+                "last_commit": "2017-10-13T17:08:53Z",
+                "owner": "RemotePixel",
+                "repo": "satellitesearch",
+                "stars": 21
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Viewers & Portals"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-15T05:57:53Z",
+            "owner": "sentinel-hub",
+            "repo": "sentinel2-cloud-detector",
+            "stars": 492
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T19:02:39Z",
+            "owner": "sertit",
+            "repo": "eoreader",
+            "stars": 345
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-30T17:01:38Z",
+            "owner": "acolite",
+            "repo": "acolite",
+            "stars": 247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-12T07:58:42Z",
+            "owner": "davidfrantz",
+            "repo": "force",
+            "stars": 198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2024-03-27T13:33:41Z",
+            "owner": "ranghetti",
+            "repo": "sen2r",
+            "stars": 165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2020-11-23T15:41:45Z",
+            "owner": "Sen2Agri",
+            "repo": "Sen2Agri-System",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-30T15:02:48Z",
+            "owner": "umr-lops",
+            "repo": "xsar",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-11-30T10:55:57Z",
+            "owner": "sat-utils",
+            "repo": "sat-stac-sentinel",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2022-04-08T08:47:04Z",
+            "owner": "bcdev",
+            "repo": "s3tbx-c2rcc",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "(Sentinel Application Plattform)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "also available as docker",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2016-05-09T07:32:39Z",
+                "owner": "edwardpmorris",
+                "repo": "docker-snap",
+                "stars": 28
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "(MACCS ATCOR Joint Algorithm)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "used for Theia",
+              "description": "and",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2020-11-23T15:41:45Z",
+                "owner": "Sen2Agri",
+                "repo": "Sen2Agri-System",
+                "stars": 131
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Processing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T11:06:22.930Z",
+    "original_repository": "kr-stn/awesome-sentinel",
+    "original_repository_sha": "127573241c85afe5248ae2f9bef8aca8b9c106b9",
+    "enhanced_repository": "enhansome/enhansome-sentinel",
+    "enhanced_repository_description": null,
+    "title": "Awesome Sentinel with stars"
+  }
+}
