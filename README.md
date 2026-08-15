@@ -88,7 +88,7 @@ Specific to Copernicus Sentinel data discovery, download and processing.
   * search and download from any [DHuS](https://github.com/SentinelDataHub/)-powered Datahub. Comes with an intuitive command line and a flexible Python API.
 * [**`sentinelhub-py`**](https://github.com/sentinel-hub/sentinelhub-py) ⭐ 908 | 🐛 22 | 🌐 Python | 📅 2026-03-10
   * Python library for downloading Sentinel-2 data from Amazon into ESA .SAFE format and interface [Sentinel Hub OGC services](https://www.sentinel-hub.com/develop/capabilities/wms)
-* [**`eodag`**](https://github.com/CS-SI/eodag) ⭐ 424 | 🐛 176 | 🌐 Python | 📅 2026-08-14
+* [**`eodag`**](https://github.com/CS-SI/eodag) ⭐ 424 | 🐛 176 | 🌐 Python | 📅 2026-08-15
   * command line tool and plugin-oriented Python framework for search and download from [multiple providers](https://eodag.readthedocs.io/en/stable/getting_started_guide/providers.html) including all DIAS
 * [**`Sentinel-download`**](https://github.com/olivierhagolle/Sentinel-download) ⭐ 194 | 🐛 15 | 🌐 Python | 📅 2018-09-30
   * download Sentinel-2 data from Copernicus SciHub. Supports download of sub-tiles in the old product format (PDS <14).
@@ -178,7 +178,7 @@ Specific to Copernicus Sentinel data discovery, download and processing.
   * [accompanying write-up](https://medium.com/sentinel-hub/improving-cloud-detection-with-machine-learning-c09dc5d7cf13) with performance comparison to other cloud detection algorithms
 * [**`EOReader`**](https://github.com/sertit/eoreader) ⭐ 345 | 🐛 58 | 🌐 Python | 📅 2026-08-03
   * Opensource Python library reading Sentinel-1, 2, 3, and other optical and SAR sensors - loading and stacking bands in a sensor-agnostic way
-* [**`ACOLITE`**](https://github.com/acolite/acolite) ⭐ 248 | 🐛 47 | 🌐 Python | 📅 2026-07-30
+* [**`ACOLITE`**](https://github.com/acolite/acolite) ⭐ 249 | 🐛 47 | 🌐 Python | 📅 2026-07-30
   * atmospheric correction algorithms for aquatic applications of Landsat and Sentinel-2
 * [**`FORCE Processing Framework`**](https://github.com/davidfrantz/force) ⭐ 198 | 🐛 22 | 🌐 C | 📅 2026-06-12
   * Generate analysis ready data for Sentinel-2 and Landsat-4/5/7/8/9 (including atmospheric correction and homogenization of Sentinel-2 and Landsat data)
@@ -228,4 +228,4 @@ Products, datasets and applications generated from Copernicus Sentinel data.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._

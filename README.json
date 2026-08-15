@@ -49,7 +49,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T11:00:41Z",
+            "last_commit": "2026-08-15T06:24:31Z",
             "owner": "CS-SI",
             "repo": "eodag",
             "stars": 424
@@ -337,7 +337,7 @@
             "last_commit": "2026-07-30T17:01:38Z",
             "owner": "acolite",
             "repo": "acolite",
-            "stars": 248
+            "stars": 249
           }
         },
         {
@@ -471,7 +471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T11:04:31.112Z",
+    "last_updated": "2026-08-15T10:31:49.568Z",
     "original_repository": "kr-stn/awesome-sentinel",
     "original_repository_sha": "127573241c85afe5248ae2f9bef8aca8b9c106b9",
     "enhanced_repository": "enhansome/enhansome-sentinel",
