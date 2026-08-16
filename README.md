@@ -88,7 +88,7 @@ Specific to Copernicus Sentinel data discovery, download and processing.
   * search and download from any [DHuS](https://github.com/SentinelDataHub/)-powered Datahub. Comes with an intuitive command line and a flexible Python API.
 * [**`sentinelhub-py`**](https://github.com/sentinel-hub/sentinelhub-py) ⭐ 908 | 🐛 22 | 🌐 Python | 📅 2026-03-10
   * Python library for downloading Sentinel-2 data from Amazon into ESA .SAFE format and interface [Sentinel Hub OGC services](https://www.sentinel-hub.com/develop/capabilities/wms)
-* [**`eodag`**](https://github.com/CS-SI/eodag) ⭐ 424 | 🐛 176 | 🌐 Python | 📅 2026-08-15
+* [**`eodag`**](https://github.com/CS-SI/eodag) ⭐ 425 | 🐛 176 | 🌐 Python | 📅 2026-08-16
   * command line tool and plugin-oriented Python framework for search and download from [multiple providers](https://eodag.readthedocs.io/en/stable/getting_started_guide/providers.html) including all DIAS
 * [**`Sentinel-download`**](https://github.com/olivierhagolle/Sentinel-download) ⭐ 194 | 🐛 15 | 🌐 Python | 📅 2018-09-30
   * download Sentinel-2 data from Copernicus SciHub. Supports download of sub-tiles in the old product format (PDS <14).
@@ -228,4 +228,4 @@ Products, datasets and applications generated from Copernicus Sentinel data.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
