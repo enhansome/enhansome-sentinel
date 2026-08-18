@@ -49,7 +49,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T07:58:10Z",
+            "last_commit": "2026-08-18T06:30:11Z",
             "owner": "CS-SI",
             "repo": "eodag",
             "stars": 425
@@ -348,7 +348,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-06-12T07:58:42Z",
+            "last_commit": "2026-08-18T07:18:46Z",
             "owner": "davidfrantz",
             "repo": "force",
             "stars": 198
@@ -471,7 +471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T10:40:56.122Z",
+    "last_updated": "2026-08-18T10:38:24.138Z",
     "original_repository": "kr-stn/awesome-sentinel",
     "original_repository_sha": "127573241c85afe5248ae2f9bef8aca8b9c106b9",
     "enhanced_repository": "enhansome/enhansome-sentinel",
