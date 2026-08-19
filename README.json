@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 203819248,
                 "language": "Python",
-                "last_commit": "2026-08-19T10:33:03Z",
+                "last_commit": "2026-08-19T12:41:10Z",
                 "owner": "CS-SI",
                 "repo": "eodag",
                 "stars": 425
@@ -499,8 +499,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T10:38:20.265Z",
+    "last_updated": "2026-08-19T12:55:15.520Z",
     "original_repository": "kr-stn/awesome-sentinel",
+    "original_repository_id": 71541009,
     "original_repository_sha": "127573241c85afe5248ae2f9bef8aca8b9c106b9",
     "enhanced_repository": "enhansome/enhansome-sentinel",
     "enhanced_repository_description": null,
