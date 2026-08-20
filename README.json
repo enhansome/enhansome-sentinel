@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 203819248,
                 "language": "Python",
-                "last_commit": "2026-08-19T12:41:10Z",
+                "last_commit": "2026-08-20T09:01:50Z",
                 "owner": "CS-SI",
                 "repo": "eodag",
                 "stars": 425
@@ -352,7 +352,7 @@
                 "last_commit": "2026-07-30T17:01:38Z",
                 "owner": "acolite",
                 "repo": "acolite",
-                "stars": 249
+                "stars": 250
               }
             },
             {
@@ -499,7 +499,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:55:15.520Z",
+    "last_updated": "2026-08-20T10:39:26.023Z",
     "original_repository": "kr-stn/awesome-sentinel",
     "original_repository_id": 71541009,
     "original_repository_sha": "127573241c85afe5248ae2f9bef8aca8b9c106b9",
