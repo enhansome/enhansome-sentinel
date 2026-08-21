@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 203819248,
                 "language": "Python",
-                "last_commit": "2026-08-20T09:01:50Z",
+                "last_commit": "2026-08-21T09:57:48Z",
                 "owner": "CS-SI",
                 "repo": "eodag",
                 "stars": 425
@@ -322,7 +322,7 @@
                 "last_commit": "2026-01-15T05:57:53Z",
                 "owner": "sentinel-hub",
                 "repo": "sentinel2-cloud-detector",
-                "stars": 492
+                "stars": 493
               }
             },
             {
@@ -337,7 +337,7 @@
                 "last_commit": "2026-08-03T19:02:39Z",
                 "owner": "sertit",
                 "repo": "eoreader",
-                "stars": 345
+                "stars": 344
               }
             },
             {
@@ -499,7 +499,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T10:39:26.023Z",
+    "last_updated": "2026-08-21T10:39:12.684Z",
     "original_repository": "kr-stn/awesome-sentinel",
     "original_repository_id": 71541009,
     "original_repository_sha": "127573241c85afe5248ae2f9bef8aca8b9c106b9",
