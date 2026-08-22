@@ -44,10 +44,10 @@
                 "archived": false,
                 "id": 203819248,
                 "language": "Python",
-                "last_commit": "2026-08-21T09:57:48Z",
+                "last_commit": "2026-08-22T06:25:44Z",
                 "owner": "CS-SI",
                 "repo": "eodag",
-                "stars": 425
+                "stars": 426
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2025-02-22T10:17:08Z",
                 "owner": "olivierhagolle",
                 "repo": "peps_download",
-                "stars": 94
+                "stars": 95
               }
             },
             {
@@ -337,7 +337,7 @@
                 "last_commit": "2026-08-03T19:02:39Z",
                 "owner": "sertit",
                 "repo": "eoreader",
-                "stars": 344
+                "stars": 345
               }
             },
             {
@@ -499,7 +499,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T10:39:12.684Z",
+    "last_updated": "2026-08-22T10:33:23.473Z",
     "original_repository": "kr-stn/awesome-sentinel",
     "original_repository_id": 71541009,
     "original_repository_sha": "127573241c85afe5248ae2f9bef8aca8b9c106b9",
