@@ -7,7 +7,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "",
+              "title": "sentinelsat",
               "description": null,
               "children": [],
               "repo_info": {
@@ -22,7 +22,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "sentinelhub-py",
               "description": null,
               "children": [],
               "repo_info": {
@@ -37,14 +37,14 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "eodag",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 203819248,
                 "language": "Python",
-                "last_commit": "2026-08-24T09:29:15Z",
+                "last_commit": "2026-08-24T13:30:10Z",
                 "owner": "CS-SI",
                 "repo": "eodag",
                 "stars": 426
@@ -52,7 +52,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "Sentinel-download",
               "description": null,
               "children": [],
               "repo_info": {
@@ -67,7 +67,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "sat-api",
               "description": null,
               "children": [],
               "repo_info": {
@@ -82,7 +82,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "peps_download",
               "description": null,
               "children": [],
               "repo_info": {
@@ -97,7 +97,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "sentinelloader",
               "description": null,
               "children": [],
               "repo_info": {
@@ -112,7 +112,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "sat-download",
               "description": null,
               "children": [],
               "repo_info": {
@@ -127,7 +127,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "Sentinel2ProductIngestor",
               "description": null,
               "children": [],
               "repo_info": {
@@ -142,7 +142,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "awsdownload",
               "description": null,
               "children": [],
               "repo_info": {
@@ -157,7 +157,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "aws-sat-api",
               "description": null,
               "children": [],
               "repo_info": {
@@ -172,7 +172,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "sentinel2-search-api",
               "description": null,
               "children": [],
               "repo_info": {
@@ -187,7 +187,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "sentinel2_aws",
               "description": null,
               "children": [],
               "repo_info": {
@@ -231,8 +231,8 @@
             },
             {
               "node_type": "group",
-              "title": "RemotePixel \"Viewer\" (no longer active)",
-              "description": null,
+              "title": "RemotePixel \"Viewer\"",
+              "description": "(no longer active)",
               "children": [
                 {
                   "node_type": "item",
@@ -268,8 +268,8 @@
             },
             {
               "node_type": "group",
-              "title": "RemotePixel \"Satellite Search\" (no longer active)",
-              "description": null,
+              "title": "RemotePixel \"Satellite Search\"",
+              "description": "(no longer active)",
               "children": [
                 {
                   "node_type": "item",
@@ -312,7 +312,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "",
+              "title": "sentinel2-cloud-detector",
               "description": null,
               "children": [],
               "repo_info": {
@@ -327,7 +327,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "eoreader",
               "description": null,
               "children": [],
               "repo_info": {
@@ -342,7 +342,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "acolite",
               "description": null,
               "children": [],
               "repo_info": {
@@ -357,7 +357,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "force",
               "description": null,
               "children": [],
               "repo_info": {
@@ -372,7 +372,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "sen2r",
               "description": null,
               "children": [],
               "repo_info": {
@@ -387,7 +387,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "Sen2Agri-System",
               "description": null,
               "children": [],
               "repo_info": {
@@ -402,14 +402,14 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "xsar",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 287357105,
                 "language": "Python",
-                "last_commit": "2026-07-30T15:02:48Z",
+                "last_commit": "2026-08-24T14:08:38Z",
                 "owner": "umr-lops",
                 "repo": "xsar",
                 "stars": 35
@@ -417,7 +417,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "sat-stac-sentinel",
               "description": null,
               "children": [],
               "repo_info": {
@@ -432,7 +432,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "s3tbx-c2rcc",
               "description": null,
               "children": [],
               "repo_info": {
@@ -499,7 +499,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:47:09.893Z",
+    "last_updated": "2026-08-24T14:23:41.862Z",
     "original_repository": "kr-stn/awesome-sentinel",
     "original_repository_id": 71541009,
     "original_repository_sha": "127573241c85afe5248ae2f9bef8aca8b9c106b9",
