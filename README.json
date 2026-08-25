@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 203819248,
                 "language": "Python",
-                "last_commit": "2026-08-24T16:21:55Z",
+                "last_commit": "2026-08-25T08:53:29Z",
                 "owner": "CS-SI",
                 "repo": "eodag",
                 "stars": 426
@@ -364,7 +364,7 @@
                 "archived": false,
                 "id": 242572905,
                 "language": "C",
-                "last_commit": "2026-08-18T12:57:12Z",
+                "last_commit": "2026-08-25T09:33:38Z",
                 "owner": "davidfrantz",
                 "repo": "force",
                 "stars": 198
@@ -382,7 +382,7 @@
                 "last_commit": "2024-03-27T13:33:41Z",
                 "owner": "ranghetti",
                 "repo": "sen2r",
-                "stars": 165
+                "stars": 166
               }
             },
             {
@@ -409,7 +409,7 @@
                 "archived": false,
                 "id": 287357105,
                 "language": "Python",
-                "last_commit": "2026-08-24T14:08:38Z",
+                "last_commit": "2026-08-25T10:21:46Z",
                 "owner": "umr-lops",
                 "repo": "xsar",
                 "stars": 35
@@ -499,7 +499,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:12:40.732Z",
+    "last_updated": "2026-08-25T10:42:04.718Z",
     "original_repository": "kr-stn/awesome-sentinel",
     "original_repository_id": 71541009,
     "original_repository_sha": "127573241c85afe5248ae2f9bef8aca8b9c106b9",
