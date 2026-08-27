@@ -337,7 +337,7 @@
                 "last_commit": "2026-08-03T19:02:39Z",
                 "owner": "sertit",
                 "repo": "eoreader",
-                "stars": 345
+                "stars": 346
               }
             },
             {
@@ -364,7 +364,7 @@
                 "archived": false,
                 "id": 242572905,
                 "language": "C",
-                "last_commit": "2026-08-26T07:09:48Z",
+                "last_commit": "2026-08-27T10:59:56Z",
                 "owner": "davidfrantz",
                 "repo": "force",
                 "stars": 199
@@ -499,9 +499,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T10:44:34.554Z",
-    "original_repository": "kr-stn/awesome-sentinel",
-    "original_repository_id": 71541009,
+    "last_updated": "2026-08-27T12:03:03.647Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 71541009,
+      "language": null,
+      "last_commit": "2025-02-20T08:03:22Z",
+      "owner": "kr-stn",
+      "repo": "awesome-sentinel",
+      "stars": 583
+    },
     "original_repository_sha": "127573241c85afe5248ae2f9bef8aca8b9c106b9",
     "enhanced_repository": "enhansome/enhansome-sentinel",
     "enhanced_repository_description": null,
