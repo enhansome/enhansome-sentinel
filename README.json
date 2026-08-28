@@ -18,7 +18,8 @@
                 "owner": "sentinelsat",
                 "repo": "sentinelsat",
                 "stars": 1020
-              }
+              },
+              "first_seen": "2026-08-28T21:10:09.361Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "sentinel-hub",
                 "repo": "sentinelhub-py",
                 "stars": 911
-              }
+              },
+              "first_seen": "2026-08-28T21:10:09.361Z"
             },
             {
               "node_type": "item",
@@ -44,11 +46,12 @@
                 "archived": false,
                 "id": 203819248,
                 "language": "Python",
-                "last_commit": "2026-08-27T17:09:02Z",
+                "last_commit": "2026-08-28T17:57:10Z",
                 "owner": "CS-SI",
                 "repo": "eodag",
                 "stars": 426
-              }
+              },
+              "first_seen": "2026-08-28T21:10:09.361Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "olivierhagolle",
                 "repo": "Sentinel-download",
                 "stars": 194
-              }
+              },
+              "first_seen": "2026-08-28T21:10:09.361Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "sat-utils",
                 "repo": "sat-api",
                 "stars": 178
-              }
+              },
+              "first_seen": "2026-08-28T21:10:09.361Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "olivierhagolle",
                 "repo": "peps_download",
                 "stars": 95
-              }
+              },
+              "first_seen": "2026-08-28T21:10:09.361Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "flaviostutz",
                 "repo": "sentinelloader",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T21:10:09.361Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "sat-utils",
                 "repo": "sat-download",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T21:10:09.361Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "sinergise",
                 "repo": "Sentinel2ProductIngestor",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T21:10:09.361Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "kraftek",
                 "repo": "awsdownload",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T21:10:09.361Z"
             },
             {
               "node_type": "item",
@@ -168,7 +178,8 @@
                 "owner": "RemotePixel",
                 "repo": "aws-sat-api",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T21:10:09.361Z"
             },
             {
               "node_type": "item",
@@ -183,7 +194,8 @@
                 "owner": "brycejohnston",
                 "repo": "sentinel2-search-api",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T21:10:09.361Z"
             },
             {
               "node_type": "item",
@@ -198,7 +210,8 @@
                 "owner": "brycejohnston",
                 "repo": "sentinel2_aws",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T21:10:09.361Z"
             }
           ],
           "description": null,
@@ -225,7 +238,8 @@
                     "owner": "jjrom",
                     "repo": "resto",
                     "stars": 61
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:10:09.361Z"
                 }
               ]
             },
@@ -247,7 +261,8 @@
                     "owner": "mapbox",
                     "repo": "sentinel-tiler",
                     "stars": 62
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:10:09.361Z"
                 },
                 {
                   "node_type": "item",
@@ -262,7 +277,8 @@
                     "owner": "RemotePixel",
                     "repo": "viewer.remotepixel.ca",
                     "stars": 28
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:10:09.361Z"
                 }
               ]
             },
@@ -284,7 +300,8 @@
                     "owner": "RemotePixel",
                     "repo": "remotepixel-api",
                     "stars": 62
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:10:09.361Z"
                 },
                 {
                   "node_type": "item",
@@ -299,7 +316,8 @@
                     "owner": "RemotePixel",
                     "repo": "satellitesearch",
                     "stars": 21
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:10:09.361Z"
                 }
               ]
             }
@@ -323,7 +341,8 @@
                 "owner": "sentinel-hub",
                 "repo": "sentinel2-cloud-detector",
                 "stars": 493
-              }
+              },
+              "first_seen": "2026-08-28T21:10:09.361Z"
             },
             {
               "node_type": "item",
@@ -338,7 +357,8 @@
                 "owner": "sertit",
                 "repo": "eoreader",
                 "stars": 346
-              }
+              },
+              "first_seen": "2026-08-28T21:10:09.361Z"
             },
             {
               "node_type": "item",
@@ -353,7 +373,8 @@
                 "owner": "acolite",
                 "repo": "acolite",
                 "stars": 250
-              }
+              },
+              "first_seen": "2026-08-28T21:10:09.361Z"
             },
             {
               "node_type": "item",
@@ -368,7 +389,8 @@
                 "owner": "davidfrantz",
                 "repo": "force",
                 "stars": 199
-              }
+              },
+              "first_seen": "2026-08-28T21:10:09.361Z"
             },
             {
               "node_type": "item",
@@ -383,7 +405,8 @@
                 "owner": "ranghetti",
                 "repo": "sen2r",
                 "stars": 166
-              }
+              },
+              "first_seen": "2026-08-28T21:10:09.361Z"
             },
             {
               "node_type": "item",
@@ -398,7 +421,8 @@
                 "owner": "Sen2Agri",
                 "repo": "Sen2Agri-System",
                 "stars": 132
-              }
+              },
+              "first_seen": "2026-08-28T21:10:09.361Z"
             },
             {
               "node_type": "item",
@@ -413,7 +437,8 @@
                 "owner": "umr-lops",
                 "repo": "xsar",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T21:10:09.361Z"
             },
             {
               "node_type": "item",
@@ -428,7 +453,8 @@
                 "owner": "sat-utils",
                 "repo": "sat-stac-sentinel",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T21:10:09.361Z"
             },
             {
               "node_type": "item",
@@ -443,7 +469,8 @@
                 "owner": "bcdev",
                 "repo": "s3tbx-c2rcc",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T21:10:09.361Z"
             },
             {
               "node_type": "group",
@@ -463,7 +490,8 @@
                     "owner": "edwardpmorris",
                     "repo": "docker-snap",
                     "stars": 28
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:10:09.361Z"
                 }
               ]
             },
@@ -485,7 +513,8 @@
                     "owner": "Sen2Agri",
                     "repo": "Sen2Agri-System",
                     "stars": 132
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:10:09.361Z"
                 }
               ]
             }
@@ -499,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:18:19.536Z",
+    "last_updated": "2026-08-28T21:10:09.361Z",
     "original_repository_info": {
       "archived": false,
       "id": 71541009,
