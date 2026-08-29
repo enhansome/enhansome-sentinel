@@ -12,12 +12,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Search and download Copernicus Sentinel satellite images",
+                "homepage": "https://sentinelsat.readthedocs.io",
                 "id": 36093931,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-10-02T09:22:49Z",
+                "open_issues": 4,
                 "owner": "sentinelsat",
                 "repo": "sentinelsat",
-                "stars": 1020
+                "stars": 1020,
+                "topics": [
+                  "copernicus",
+                  "esa",
+                  "geographic-data",
+                  "hacktoberfest",
+                  "open-data",
+                  "remote-sensing",
+                  "satellite-imagery",
+                  "sentinel"
+                ]
               },
               "first_seen": "2026-08-28T21:10:09.361Z"
             },
@@ -28,12 +42,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Download and process satellite imagery in Python using Sentinel Hub services.",
+                "homepage": "http://sentinelhub-py.readthedocs.io/en/latest/",
                 "id": 91571506,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-10T10:53:30Z",
+                "open_issues": 22,
                 "owner": "sentinel-hub",
                 "repo": "sentinelhub-py",
-                "stars": 911
+                "stars": 911,
+                "topics": [
+                  "aws",
+                  "ogc-services",
+                  "python-library",
+                  "satellite-imagery",
+                  "sentinel-hub"
+                ]
               },
               "first_seen": "2026-08-28T21:10:09.361Z"
             },
@@ -44,12 +69,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Earth Observation Data Access Gateway",
+                "homepage": "https://eodag.readthedocs.io",
                 "id": 203819248,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T17:57:10Z",
+                "open_issues": 176,
                 "owner": "CS-SI",
                 "repo": "eodag",
-                "stars": 426
+                "stars": 427,
+                "topics": [
+                  "catalog",
+                  "cbers",
+                  "copernicus",
+                  "downloader",
+                  "earth-observation",
+                  "eodag",
+                  "geographic-data",
+                  "geospatial",
+                  "gis",
+                  "landsat",
+                  "modis",
+                  "remote-sensing",
+                  "satellite-imagery",
+                  "search",
+                  "sentinel",
+                  "spatial-imagery",
+                  "stac"
+                ]
               },
               "first_seen": "2026-08-28T21:10:09.361Z"
             },
@@ -60,12 +108,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automated download of Sentinel-2 L1C data from ESA (through wget) :http://olivierhagolle.github.io/Sentinel-download",
+                "homepage": null,
                 "id": 47502609,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2018-09-30T17:19:55Z",
+                "open_issues": 15,
                 "owner": "olivierhagolle",
                 "repo": "Sentinel-download",
-                "stars": 194
+                "stars": 194,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:09.361Z"
             },
@@ -76,12 +129,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "One API to search public satellites metadata on AWS",
+                "homepage": "https://sat-api.developmentseed.org/search/stac",
                 "id": 56120546,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-07-28T23:29:18Z",
+                "open_issues": 24,
                 "owner": "sat-utils",
                 "repo": "sat-api",
-                "stars": 178
+                "stars": 178,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:09.361Z"
             },
@@ -92,12 +150,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tool to download Sentinel images from PEPS sentinel mirror site : https://peps.cnes.fr",
+                "homepage": null,
                 "id": 51286510,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-02-22T10:17:08Z",
+                "open_issues": 14,
                 "owner": "olivierhagolle",
                 "repo": "peps_download",
-                "stars": 95
+                "stars": 95,
+                "topics": [
+                  "data-downloader",
+                  "earth-observation",
+                  "remote-sensing",
+                  "sentinel-1",
+                  "sentinel-2",
+                  "sentinel-3"
+                ]
               },
               "first_seen": "2026-08-28T21:10:09.361Z"
             },
@@ -108,12 +178,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sentinel-2 satellite tiles images downloader from Copernicus. Minimizes data download and combines multiple tiles to return a single area of interest.",
+                "homepage": null,
                 "id": 175981218,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2023-03-28T07:25:06Z",
+                "open_issues": 3,
                 "owner": "flaviostutz",
                 "repo": "sentinelloader",
-                "stars": 46
+                "stars": 46,
+                "topics": [
+                  "copernicus",
+                  "hacktoberfest",
+                  "satellite-imagery",
+                  "sentinel-2"
+                ]
               },
               "first_seen": "2026-08-28T21:10:09.361Z"
             },
@@ -124,12 +204,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[DEPRECATED] Used by landsat-util for downloading landsat and sentinel-2 data",
+                "homepage": null,
                 "id": 55260819,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2016-06-30T18:50:42Z",
+                "open_issues": 1,
                 "owner": "sat-utils",
                 "repo": "sat-download",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:09.361Z"
             },
@@ -140,12 +225,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "http://www.sentinel-hub.com",
                 "id": 50027346,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2017-04-21T19:05:56Z",
+                "open_issues": 0,
                 "owner": "sinergise",
                 "repo": "Sentinel2ProductIngestor",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:09.361Z"
             },
@@ -156,12 +246,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Downloader for Sentinel-2 products from Amazon or SciHub",
+                "homepage": null,
                 "id": 51375152,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2018-07-16T12:15:51Z",
+                "open_issues": 2,
                 "owner": "kraftek",
                 "repo": "awsdownload",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:09.361Z"
             },
@@ -172,12 +267,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Simple Serverless API for Sentinel-2, Landsat-8 and CBERS-4 data hosted on AWS",
+                "homepage": null,
                 "id": 113635638,
                 "language": "JavaScript",
+                "license": "BSD-3-Clause",
                 "last_commit": "2018-04-05T16:32:58Z",
+                "open_issues": 5,
                 "owner": "RemotePixel",
                 "repo": "aws-sat-api",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:09.361Z"
             },
@@ -188,12 +288,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple API to query Sentinel-2 data by MRGS on AWS",
+                "homepage": "https://sentinel2.satgateway.com",
                 "id": 114694550,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2018-04-07T15:14:08Z",
+                "open_issues": 0,
                 "owner": "brycejohnston",
                 "repo": "sentinel2-search-api",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "api",
+                  "aws",
+                  "mgrs",
+                  "satellite",
+                  "sentinel-2"
+                ]
               },
               "first_seen": "2026-08-28T21:10:09.361Z"
             },
@@ -204,12 +315,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sentinel-2 metadata parser and downloader from AWS",
+                "homepage": "https://rubygems.org/gems/sentinel2_aws",
                 "id": 113693593,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2018-04-07T15:21:56Z",
+                "open_issues": 0,
                 "owner": "brycejohnston",
                 "repo": "sentinel2_aws",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "aws",
+                  "rubygem",
+                  "satellite",
+                  "sentinel-2"
+                ]
               },
               "first_seen": "2026-08-28T21:10:09.361Z"
             }
@@ -232,12 +353,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A metadata catalog and search engine for geospatialized data",
+                    "homepage": null,
                     "id": 25121303,
                     "language": "PHP",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-31T13:58:33Z",
+                    "open_issues": 6,
                     "owner": "jjrom",
                     "repo": "resto",
-                    "stars": 61
+                    "stars": 61,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:10:09.361Z"
                 }
@@ -255,12 +381,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A serverless Sentinel-2 tiles server using AWS Lambda",
+                    "homepage": null,
                     "id": 105784854,
                     "language": "JavaScript",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2018-08-09T16:28:44Z",
+                    "open_issues": 2,
                     "owner": "mapbox",
                     "repo": "sentinel-tiler",
-                    "stars": 62
+                    "stars": 62,
+                    "topics": [
+                      "imagery",
+                      "satellite"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:10:09.361Z"
                 },
@@ -271,12 +405,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "remotepixel's viewer code",
+                    "homepage": "https://viewer.remotepixel.ca",
                     "id": 106756714,
                     "language": "JavaScript",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2019-07-15T13:48:42Z",
+                    "open_issues": 1,
                     "owner": "RemotePixel",
                     "repo": "viewer.remotepixel.ca",
-                    "stars": 28
+                    "stars": 28,
+                    "topics": [
+                      "website"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:10:09.361Z"
                 }
@@ -294,12 +435,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Process Satellite data using AWS Lambda functions",
+                    "homepage": null,
                     "id": 96107531,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2020-12-04T01:56:05Z",
+                    "open_issues": 3,
                     "owner": "RemotePixel",
                     "repo": "remotepixel-api",
-                    "stars": 62
+                    "stars": 62,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:10:09.361Z"
                 },
@@ -310,12 +456,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "[DEPRECATED] RemotePixel.ca satellitesearch project code",
+                    "homepage": "https://remotepixel.ca/projects/satellitesearch.html",
                     "id": 68492850,
                     "language": "CSS",
+                    "license": "GPL-3.0",
                     "last_commit": "2017-10-13T17:08:53Z",
+                    "open_issues": 0,
                     "owner": "RemotePixel",
                     "repo": "satellitesearch",
-                    "stars": 21
+                    "stars": 21,
+                    "topics": [
+                      "landsat",
+                      "mapbox",
+                      "sentinel"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:10:09.361Z"
                 }
@@ -335,12 +490,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sentinel Hub Cloud Detector for Sentinel-2 images in Python",
+                "homepage": null,
                 "id": 118460797,
                 "language": "Python",
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2026-01-15T05:57:53Z",
+                "open_issues": 4,
                 "owner": "sentinel-hub",
                 "repo": "sentinel2-cloud-detector",
-                "stars": 493
+                "stars": 493,
+                "topics": [
+                  "classification",
+                  "cloud-detector",
+                  "python-library",
+                  "sentinel-2",
+                  "sentinel-hub"
+                ]
               },
               "first_seen": "2026-08-28T21:10:09.361Z"
             },
@@ -351,12 +517,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Remote-sensing opensource python library reading optical and SAR sensors, loading and stacking bands, clouds, DEM and spectral indices in a sensor-agnostic way.",
+                "homepage": "https://eoreader.readthedocs.io/stable/",
                 "id": 362003355,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-03T19:02:39Z",
+                "open_issues": 60,
                 "owner": "sertit",
                 "repo": "eoreader",
-                "stars": 346
+                "stars": 346,
+                "topics": [
+                  "cosmo-skymed",
+                  "earth-observation",
+                  "geopandas",
+                  "iceye",
+                  "landsat",
+                  "maxar",
+                  "planetscope",
+                  "pleiades",
+                  "radarsat",
+                  "rasterio",
+                  "remote-sensing",
+                  "saocom",
+                  "sar",
+                  "satellite-imagery",
+                  "sentinel-1",
+                  "sentinel-2",
+                  "sentinel-3",
+                  "terrasar",
+                  "worldview",
+                  "xarray"
+                ]
               },
               "first_seen": "2026-08-28T21:10:09.361Z"
             },
@@ -367,12 +559,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ACOLITE: generic atmospheric correction module",
+                "homepage": null,
                 "id": 336207338,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-30T17:01:38Z",
+                "open_issues": 47,
                 "owner": "acolite",
                 "repo": "acolite",
-                "stars": 250
+                "stars": 250,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:09.361Z"
             },
@@ -383,12 +580,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Framework for Operational Radiometric Correction for Environmental monitoring",
+                "homepage": null,
                 "id": 242572905,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-27T10:59:56Z",
+                "open_issues": 18,
                 "owner": "davidfrantz",
                 "repo": "force",
-                "stars": 199
+                "stars": 199,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:09.361Z"
             },
@@ -399,12 +601,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Find, Download and Process Sentinel-2 Data",
+                "homepage": null,
                 "id": 97834058,
                 "language": "R",
+                "license": "GPL-3.0",
                 "last_commit": "2024-03-27T13:33:41Z",
+                "open_issues": 1,
                 "owner": "ranghetti",
                 "repo": "sen2r",
-                "stars": 166
+                "stars": 166,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:09.361Z"
             },
@@ -415,12 +622,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sentinel-2 for Agriculture (Sen2Agri) is a software system processing high resolution satellite images for agricultural purposes funded by ESA (European Space Agency). Please register on the Sen2Agri webpage for Sen2Agri system updates and information.",
+                "homepage": "http://www.esa-sen2agri.org",
                 "id": 95749649,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2020-11-23T15:41:45Z",
+                "open_issues": 21,
                 "owner": "Sen2Agri",
                 "repo": "Sen2Agri-System",
-                "stars": 132
+                "stars": 132,
+                "topics": [
+                  "agricultural",
+                  "esa",
+                  "gdal",
+                  "otb"
+                ]
               },
               "first_seen": "2026-08-28T21:10:09.361Z"
             },
@@ -431,12 +648,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Synthetic Aperture Radar (SAR) Level-1 GRD python mapper for efficient xarray/dask based processing",
+                "homepage": "https://cyclobs.ifremer.fr/static/sarwing_datarmor/xsar/",
                 "id": 287357105,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-25T10:21:46Z",
+                "open_issues": 33,
                 "owner": "umr-lops",
                 "repo": "xsar",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "dask",
+                  "gdal",
+                  "grd",
+                  "l1-reader",
+                  "radarsat",
+                  "rcm",
+                  "sar",
+                  "sar-processing",
+                  "sentinel-1",
+                  "xarray"
+                ]
               },
               "first_seen": "2026-08-28T21:10:09.361Z"
             },
@@ -447,12 +680,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Creation of a Sentinel Spatio-Temporal Asset Catalog (STAC) from inventory of the Sentinel public dataset on AWS",
+                "homepage": null,
                 "id": 154273683,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-11-30T10:55:57Z",
+                "open_issues": 6,
                 "owner": "sat-utils",
                 "repo": "sat-stac-sentinel",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:09.361Z"
             },
@@ -463,12 +701,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Case-2 Regional / Coast Colour AC+IOP Processor",
+                "homepage": null,
                 "id": 37990127,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2022-04-08T08:47:04Z",
+                "open_issues": 0,
                 "owner": "bcdev",
                 "repo": "s3tbx-c2rcc",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:09.361Z"
             },
@@ -484,12 +727,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Docker container including ESA-STEP Sentinel Application Platform (SNAP, http://step.esa.int/main/toolboxes/snap/) and Sentinel toolboxes jointly developed by Brockmann Consult, Array Systems Computing and C-S.",
+                    "homepage": null,
                     "id": 51218577,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2016-05-09T07:32:39Z",
+                    "open_issues": 2,
                     "owner": "edwardpmorris",
                     "repo": "docker-snap",
-                    "stars": 28
+                    "stars": 28,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:10:09.361Z"
                 }
@@ -507,12 +755,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Sentinel-2 for Agriculture (Sen2Agri) is a software system processing high resolution satellite images for agricultural purposes funded by ESA (European Space Agency). Please register on the Sen2Agri webpage for Sen2Agri system updates and information.",
+                    "homepage": "http://www.esa-sen2agri.org",
                     "id": 95749649,
                     "language": "HTML",
+                    "license": "NOASSERTION",
                     "last_commit": "2020-11-23T15:41:45Z",
+                    "open_issues": 21,
                     "owner": "Sen2Agri",
                     "repo": "Sen2Agri-System",
-                    "stars": 132
+                    "stars": 132,
+                    "topics": [
+                      "agricultural",
+                      "esa",
+                      "gdal",
+                      "otb"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:10:09.361Z"
                 }
@@ -528,15 +786,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:10:09.361Z",
+    "last_updated": "2026-08-29T04:39:26.021Z",
     "original_repository_info": {
       "archived": false,
+      "description": "curated list of awesome tools, tutorials and APIs for Copernicus Sentinel satellite data",
+      "homepage": null,
       "id": 71541009,
       "language": null,
+      "license": "CC-BY-4.0",
       "last_commit": "2025-02-20T08:03:22Z",
+      "open_issues": 3,
       "owner": "kr-stn",
       "repo": "awesome-sentinel",
-      "stars": 583
+      "stars": 583,
+      "topics": [
+        "awesome-list",
+        "hacktoberfest",
+        "open-data",
+        "research",
+        "satellite-imagery",
+        "science",
+        "space"
+      ]
     },
     "original_repository_sha": "127573241c85afe5248ae2f9bef8aca8b9c106b9",
     "enhanced_repository": "enhansome/enhansome-sentinel",
