@@ -86,9 +86,9 @@ Specific to Copernicus Sentinel data discovery, download and processing.
 
 * [**`sentinelsat`**](https://github.com/sentinelsat/sentinelsat) ⚠️ Archived
   * search and download from any [DHuS](https://github.com/SentinelDataHub/)-powered Datahub. Comes with an intuitive command line and a flexible Python API.
-* [**`sentinelhub-py`**](https://github.com/sentinel-hub/sentinelhub-py) ⭐ 911 | 🐛 24 | 🌐 Python | 📅 2026-09-11
+* [**`sentinelhub-py`**](https://github.com/sentinel-hub/sentinelhub-py) ⭐ 910 | 🐛 23 | 🌐 Python | 📅 2026-09-15
   * Python library for downloading Sentinel-2 data from Amazon into ESA .SAFE format and interface [Sentinel Hub OGC services](https://www.sentinel-hub.com/develop/capabilities/wms)
-* [**`eodag`**](https://github.com/CS-SI/eodag) ⭐ 432 | 🐛 178 | 🌐 Python | 📅 2026-09-14
+* [**`eodag`**](https://github.com/CS-SI/eodag) ⭐ 433 | 🐛 176 | 🌐 Python | 📅 2026-09-15
   * command line tool and plugin-oriented Python framework for search and download from [multiple providers](https://eodag.readthedocs.io/en/stable/getting_started_guide/providers.html) including all DIAS
 * [**`Sentinel-download`**](https://github.com/olivierhagolle/Sentinel-download) ⭐ 194 | 🐛 15 | 🌐 Python | 📅 2018-09-30
   * download Sentinel-2 data from Copernicus SciHub. Supports download of sub-tiles in the old product format (PDS <14).
@@ -187,7 +187,7 @@ Specific to Copernicus Sentinel data discovery, download and processing.
 * [**`Sen2-Agri`**](https://github.com/Sen2Agri/Sen2Agri-System) ⭐ 132 | 🐛 21 | 🌐 HTML | 📅 2020-11-23
   * toolbox for processing images for agricultural purposes
   * includes modules for atmospheric correction, monthly syntheses, biophysical variables, crop mask, crop-type classification and an [orchestrator](http://www.esa-sen2agri.org/operational-system/system-description/)
-* [**`xsar`**](https://github.com/umr-lops/xsar) ⭐ 35 | 🐛 29 | 🌐 Python | 📅 2026-08-31
+* [**`xsar`**](https://github.com/umr-lops/xsar) ⭐ 34 | 🐛 30 | 🌐 Python | 📅 2026-08-31
   * read Sentinel-1 data into xarray for further processing
 * [**`sat-stac-sentinel`**](https://github.com/sat-utils/sat-stac-sentinel) ⭐ 20 | 🐛 6 | 🌐 Python | 📅 2020-11-30
   * convert original Sentinel-1 and -2 metadata into [STAC](https://stacspec.org/) items
@@ -228,4 +228,4 @@ Products, datasets and applications generated from Copernicus Sentinel data.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._

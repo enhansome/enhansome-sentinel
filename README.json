@@ -21,7 +21,7 @@
                 "open_issues": 4,
                 "owner": "sentinelsat",
                 "repo": "sentinelsat",
-                "stars": 1020,
+                "stars": 1019,
                 "topics": [
                   "copernicus",
                   "esa",
@@ -47,11 +47,11 @@
                 "id": 91571506,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-11T13:49:55Z",
-                "open_issues": 24,
+                "last_commit": "2026-09-15T12:30:55Z",
+                "open_issues": 23,
                 "owner": "sentinel-hub",
                 "repo": "sentinelhub-py",
-                "stars": 911,
+                "stars": 910,
                 "topics": [
                   "aws",
                   "ogc-services",
@@ -74,11 +74,11 @@
                 "id": 203819248,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-14T13:50:27Z",
-                "open_issues": 178,
+                "last_commit": "2026-09-15T13:23:48Z",
+                "open_issues": 176,
                 "owner": "CS-SI",
                 "repo": "eodag",
-                "stars": 432,
+                "stars": 433,
                 "topics": [
                   "catalog",
                   "cbers",
@@ -654,10 +654,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-31T16:43:33Z",
-                "open_issues": 29,
+                "open_issues": 30,
                 "owner": "umr-lops",
                 "repo": "xsar",
-                "stars": 35,
+                "stars": 34,
                 "topics": [
                   "dask",
                   "gdal",
@@ -786,7 +786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T16:18:09.467Z",
+    "last_updated": "2026-09-15T14:52:13.007Z",
     "original_repository_info": {
       "archived": false,
       "description": "curated list of awesome tools, tutorials and APIs for Copernicus Sentinel satellite data",
