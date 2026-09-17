@@ -88,7 +88,7 @@ Specific to Copernicus Sentinel data discovery, download and processing.
   * search and download from any [DHuS](https://github.com/SentinelDataHub/)-powered Datahub. Comes with an intuitive command line and a flexible Python API.
 * [**`sentinelhub-py`**](https://github.com/sentinel-hub/sentinelhub-py) ⭐ 910 | 🐛 23 | 🌐 Python | 📅 2026-09-16
   * Python library for downloading Sentinel-2 data from Amazon into ESA .SAFE format and interface [Sentinel Hub OGC services](https://www.sentinel-hub.com/develop/capabilities/wms)
-* [**`eodag`**](https://github.com/CS-SI/eodag) ⭐ 434 | 🐛 174 | 🌐 Python | 📅 2026-09-16
+* [**`eodag`**](https://github.com/CS-SI/eodag) ⭐ 434 | 🐛 175 | 🌐 Python | 📅 2026-09-17
   * command line tool and plugin-oriented Python framework for search and download from [multiple providers](https://eodag.readthedocs.io/en/stable/getting_started_guide/providers.html) including all DIAS
 * [**`Sentinel-download`**](https://github.com/olivierhagolle/Sentinel-download) ⭐ 194 | 🐛 15 | 🌐 Python | 📅 2018-09-30
   * download Sentinel-2 data from Copernicus SciHub. Supports download of sub-tiles in the old product format (PDS <14).
@@ -176,7 +176,7 @@ Specific to Copernicus Sentinel data discovery, download and processing.
 * [**`s2cloudless`**](https://github.com/sentinel-hub/sentinel2-cloud-detector) ⭐ 494 | 🐛 4 | 🌐 Python | 📅 2026-01-15
   * single scene, pixel-based cloud detection algorithm used at [Sentinel-Hub](https://www.sentinel-hub.com/)
   * [accompanying write-up](https://medium.com/sentinel-hub/improving-cloud-detection-with-machine-learning-c09dc5d7cf13) with performance comparison to other cloud detection algorithms
-* [**`EOReader`**](https://github.com/sertit/eoreader) ⭐ 348 | 🐛 61 | 🌐 Python | 📅 2026-09-09
+* [**`EOReader`**](https://github.com/sertit/eoreader) ⭐ 348 | 🐛 63 | 🌐 Python | 📅 2026-09-17
   * Opensource Python library reading Sentinel-1, 2, 3, and other optical and SAR sensors - loading and stacking bands in a sensor-agnostic way
 * [**`ACOLITE`**](https://github.com/acolite/acolite) ⭐ 251 | 🐛 48 | 🌐 Python | 📅 2026-09-09
   * atmospheric correction algorithms for aquatic applications of Landsat and Sentinel-2
@@ -228,4 +228,4 @@ Products, datasets and applications generated from Copernicus Sentinel data.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._

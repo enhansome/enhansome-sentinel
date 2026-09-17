@@ -21,7 +21,7 @@
                 "open_issues": 4,
                 "owner": "sentinelsat",
                 "repo": "sentinelsat",
-                "stars": 1019,
+                "stars": 1018,
                 "topics": [
                   "copernicus",
                   "esa",
@@ -74,8 +74,8 @@
                 "id": 203819248,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T10:33:17Z",
-                "open_issues": 174,
+                "last_commit": "2026-09-17T10:44:38Z",
+                "open_issues": 175,
                 "owner": "CS-SI",
                 "repo": "eodag",
                 "stars": 434,
@@ -522,8 +522,8 @@
                 "id": 362003355,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T10:38:10Z",
-                "open_issues": 61,
+                "last_commit": "2026-09-17T13:04:36Z",
+                "open_issues": 63,
                 "owner": "sertit",
                 "repo": "eoreader",
                 "stars": 348,
@@ -786,7 +786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T14:49:13.626Z",
+    "last_updated": "2026-09-17T14:52:09.769Z",
     "original_repository_info": {
       "archived": false,
       "description": "curated list of awesome tools, tutorials and APIs for Copernicus Sentinel satellite data",
