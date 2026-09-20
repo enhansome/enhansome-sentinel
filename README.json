@@ -51,7 +51,7 @@
                 "open_issues": 23,
                 "owner": "sentinel-hub",
                 "repo": "sentinelhub-py",
-                "stars": 910,
+                "stars": 911,
                 "topics": [
                   "aws",
                   "ogc-services",
@@ -74,7 +74,7 @@
                 "id": 203819248,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-19T10:01:43Z",
+                "last_commit": "2026-09-20T10:22:15Z",
                 "open_issues": 174,
                 "owner": "CS-SI",
                 "repo": "eodag",
@@ -786,7 +786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T13:52:25.912Z",
+    "last_updated": "2026-09-20T14:06:28.215Z",
     "original_repository_info": {
       "archived": false,
       "description": "curated list of awesome tools, tutorials and APIs for Copernicus Sentinel satellite data",
