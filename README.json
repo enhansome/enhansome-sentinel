@@ -74,8 +74,8 @@
                 "id": 203819248,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T14:58:32Z",
-                "open_issues": 178,
+                "last_commit": "2026-09-30T13:52:30Z",
+                "open_issues": 175,
                 "owner": "CS-SI",
                 "repo": "eodag",
                 "stars": 435,
@@ -523,10 +523,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-28T19:43:57Z",
-                "open_issues": 63,
+                "open_issues": 64,
                 "owner": "sertit",
                 "repo": "eoreader",
-                "stars": 349,
+                "stars": 350,
                 "topics": [
                   "cosmo-skymed",
                   "earth-observation",
@@ -564,7 +564,7 @@
                 "id": 336207338,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-28T08:53:03Z",
+                "last_commit": "2026-09-30T14:41:44Z",
                 "open_issues": 47,
                 "owner": "acolite",
                 "repo": "acolite",
@@ -589,7 +589,7 @@
                 "open_issues": 17,
                 "owner": "davidfrantz",
                 "repo": "force",
-                "stars": 202,
+                "stars": 203,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:09.361Z"
@@ -786,7 +786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T16:27:48.606Z",
+    "last_updated": "2026-09-30T16:22:05.895Z",
     "original_repository_info": {
       "archived": false,
       "description": "curated list of awesome tools, tutorials and APIs for Copernicus Sentinel satellite data",
