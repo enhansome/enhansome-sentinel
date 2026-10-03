@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "sentinelsat",
-              "description": null,
+              "description": "sentinelsat/sentinelsat",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -38,7 +38,7 @@
             {
               "node_type": "item",
               "title": "sentinelhub-py",
-              "description": null,
+              "description": "sentinel-hub/sentinelhub-py",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -65,7 +65,7 @@
             {
               "node_type": "item",
               "title": "eodag",
-              "description": null,
+              "description": "CS-SI/eodag",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -104,7 +104,7 @@
             {
               "node_type": "item",
               "title": "Sentinel-download",
-              "description": null,
+              "description": "olivierhagolle/Sentinel-download",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -125,7 +125,7 @@
             {
               "node_type": "item",
               "title": "sat-api",
-              "description": null,
+              "description": "sat-utils/sat-api",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -146,7 +146,7 @@
             {
               "node_type": "item",
               "title": "peps_download",
-              "description": null,
+              "description": "olivierhagolle/peps_download",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -174,7 +174,7 @@
             {
               "node_type": "item",
               "title": "sentinelloader",
-              "description": null,
+              "description": "flaviostutz/sentinelloader",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -200,7 +200,7 @@
             {
               "node_type": "item",
               "title": "sat-download",
-              "description": null,
+              "description": "sat-utils/sat-download",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -221,7 +221,7 @@
             {
               "node_type": "item",
               "title": "Sentinel2ProductIngestor",
-              "description": null,
+              "description": "sinergise/Sentinel2ProductIngestor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -242,7 +242,7 @@
             {
               "node_type": "item",
               "title": "awsdownload",
-              "description": null,
+              "description": "kraftek/awsdownload",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -263,7 +263,7 @@
             {
               "node_type": "item",
               "title": "aws-sat-api",
-              "description": null,
+              "description": "RemotePixel/aws-sat-api",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -284,7 +284,7 @@
             {
               "node_type": "item",
               "title": "sentinel2-search-api",
-              "description": null,
+              "description": "brycejohnston/sentinel2-search-api",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -311,7 +311,7 @@
             {
               "node_type": "item",
               "title": "sentinel2_aws",
-              "description": null,
+              "description": "brycejohnston/sentinel2_aws",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -486,7 +486,7 @@
             {
               "node_type": "item",
               "title": "sentinel2-cloud-detector",
-              "description": null,
+              "description": "sentinel-hub/sentinel2-cloud-detector",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -513,7 +513,7 @@
             {
               "node_type": "item",
               "title": "eoreader",
-              "description": null,
+              "description": "sertit/eoreader",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -555,7 +555,7 @@
             {
               "node_type": "item",
               "title": "acolite",
-              "description": null,
+              "description": "acolite/acolite",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -576,7 +576,7 @@
             {
               "node_type": "item",
               "title": "force",
-              "description": null,
+              "description": "davidfrantz/force",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -597,7 +597,7 @@
             {
               "node_type": "item",
               "title": "sen2r",
-              "description": null,
+              "description": "ranghetti/sen2r",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -618,7 +618,7 @@
             {
               "node_type": "item",
               "title": "Sen2Agri-System",
-              "description": null,
+              "description": "Sen2Agri/Sen2Agri-System",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -644,7 +644,7 @@
             {
               "node_type": "item",
               "title": "xsar",
-              "description": null,
+              "description": "umr-lops/xsar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -676,7 +676,7 @@
             {
               "node_type": "item",
               "title": "sat-stac-sentinel",
-              "description": null,
+              "description": "sat-utils/sat-stac-sentinel",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -697,7 +697,7 @@
             {
               "node_type": "item",
               "title": "s3tbx-c2rcc",
-              "description": null,
+              "description": "bcdev/s3tbx-c2rcc",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -723,7 +723,7 @@
                 {
                   "node_type": "item",
                   "title": "also available as docker",
-                  "description": null,
+                  "description": "edwardpmorris/docker-snap",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -786,7 +786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:12:57.058Z",
+    "last_updated": "2026-10-03T05:05:46.590Z",
     "original_repository_info": {
       "archived": false,
       "description": "curated list of awesome tools, tutorials and APIs for Copernicus Sentinel satellite data",
