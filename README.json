@@ -21,7 +21,7 @@
                 "open_issues": 4,
                 "owner": "sentinelsat",
                 "repo": "sentinelsat",
-                "stars": 1017,
+                "stars": 1018,
                 "topics": [
                   "copernicus",
                   "esa",
@@ -51,7 +51,7 @@
                 "open_issues": 23,
                 "owner": "sentinel-hub",
                 "repo": "sentinelhub-py",
-                "stars": 909,
+                "stars": 908,
                 "topics": [
                   "aws",
                   "ogc-services",
@@ -74,8 +74,8 @@
                 "id": 203819248,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-04T11:35:47Z",
-                "open_issues": 178,
+                "last_commit": "2026-10-05T15:47:23Z",
+                "open_issues": 179,
                 "owner": "CS-SI",
                 "repo": "eodag",
                 "stars": 435,
@@ -522,8 +522,8 @@
                 "id": 362003355,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-28T19:43:57Z",
-                "open_issues": 64,
+                "last_commit": "2026-10-05T17:36:54Z",
+                "open_issues": 68,
                 "owner": "sertit",
                 "repo": "eoreader",
                 "stars": 350,
@@ -586,7 +586,7 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-29T15:28:42Z",
-                "open_issues": 17,
+                "open_issues": 18,
                 "owner": "davidfrantz",
                 "repo": "force",
                 "stars": 203,
@@ -786,7 +786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T15:16:56.742Z",
+    "last_updated": "2026-10-05T19:13:33.730Z",
     "original_repository_info": {
       "archived": false,
       "description": "curated list of awesome tools, tutorials and APIs for Copernicus Sentinel satellite data",
