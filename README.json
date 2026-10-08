@@ -21,7 +21,7 @@
                 "open_issues": 4,
                 "owner": "sentinelsat",
                 "repo": "sentinelsat",
-                "stars": 1018,
+                "stars": 1019,
                 "topics": [
                   "copernicus",
                   "esa",
@@ -74,8 +74,8 @@
                 "id": 203819248,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T14:48:27Z",
-                "open_issues": 177,
+                "last_commit": "2026-10-08T15:56:24Z",
+                "open_issues": 178,
                 "owner": "CS-SI",
                 "repo": "eodag",
                 "stars": 437,
@@ -522,8 +522,8 @@
                 "id": 362003355,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T17:36:54Z",
-                "open_issues": 68,
+                "last_commit": "2026-10-08T12:06:31Z",
+                "open_issues": 66,
                 "owner": "sertit",
                 "repo": "eoreader",
                 "stars": 350,
@@ -568,7 +568,7 @@
                 "open_issues": 47,
                 "owner": "acolite",
                 "repo": "acolite",
-                "stars": 251,
+                "stars": 252,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:09.361Z"
@@ -586,7 +586,7 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-29T15:28:42Z",
-                "open_issues": 18,
+                "open_issues": 19,
                 "owner": "davidfrantz",
                 "repo": "force",
                 "stars": 203,
@@ -786,7 +786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T17:23:15.151Z",
+    "last_updated": "2026-10-08T17:21:09.534Z",
     "original_repository_info": {
       "archived": false,
       "description": "curated list of awesome tools, tutorials and APIs for Copernicus Sentinel satellite data",
