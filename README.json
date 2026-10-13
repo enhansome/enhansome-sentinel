@@ -74,8 +74,8 @@
                 "id": 203819248,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-12T16:39:27Z",
-                "open_issues": 179,
+                "last_commit": "2026-10-13T13:15:28Z",
+                "open_issues": 182,
                 "owner": "CS-SI",
                 "repo": "eodag",
                 "stars": 437,
@@ -358,7 +358,7 @@
                     "id": 25121303,
                     "language": "PHP",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-21T07:24:18Z",
+                    "last_commit": "2026-10-13T13:51:55Z",
                     "open_issues": 6,
                     "owner": "jjrom",
                     "repo": "resto",
@@ -786,7 +786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T19:45:32.600Z",
+    "last_updated": "2026-10-13T17:31:39.331Z",
     "original_repository_info": {
       "archived": false,
       "description": "curated list of awesome tools, tutorials and APIs for Copernicus Sentinel satellite data",
@@ -795,7 +795,7 @@
       "language": null,
       "license": "CC-BY-4.0",
       "last_commit": "2025-02-20T08:03:22Z",
-      "open_issues": 4,
+      "open_issues": 5,
       "owner": "kr-stn",
       "repo": "awesome-sentinel",
       "stars": 584,
