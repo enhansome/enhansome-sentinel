@@ -88,7 +88,7 @@ Specific to Copernicus Sentinel data discovery, download and processing.
   * search and download from any [DHuS](https://github.com/SentinelDataHub/)-powered Datahub. Comes with an intuitive command line and a flexible Python API.
 * [**`sentinelhub-py`**](https://github.com/sentinel-hub/sentinelhub-py) ⭐ 910 | 🐛 23 | 🌐 Python | 📅 2026-09-16
   * Python library for downloading Sentinel-2 data from Amazon into ESA .SAFE format and interface [Sentinel Hub OGC services](https://www.sentinel-hub.com/develop/capabilities/wms)
-* [**`eodag`**](https://github.com/CS-SI/eodag) ⭐ 437 | 🐛 182 | 🌐 Python | 📅 2026-10-15
+* [**`eodag`**](https://github.com/CS-SI/eodag) ⭐ 437 | 🐛 183 | 🌐 Python | 📅 2026-10-16
   * command line tool and plugin-oriented Python framework for search and download from [multiple providers](https://eodag.readthedocs.io/en/stable/getting_started_guide/providers.html) including all DIAS
 * [**`Sentinel-download`**](https://github.com/olivierhagolle/Sentinel-download) ⭐ 194 | 🐛 15 | 🌐 Python | 📅 2018-09-30
   * download Sentinel-2 data from Copernicus SciHub. Supports download of sub-tiles in the old product format (PDS <14).
@@ -123,7 +123,7 @@ Specific to Copernicus Sentinel data discovery, download and processing.
   * visualize band combinations on-the-fly
 
 * [**jeobrowser "Rocket"**](https://mapshup.com/projects/rocket)
-  * based on [resto](https://github.com/jjrom/resto) ⭐ 61 | 🐛 6 | 🌐 PHP | 📅 2026-10-13 search engine and used as frontend for [PEPS](https://peps.cnes.fr/rocket/)
+  * based on [resto](https://github.com/jjrom/resto) ⭐ 61 | 🐛 6 | 🌐 PHP | 📅 2026-10-15 search engine and used as frontend for [PEPS](https://peps.cnes.fr/rocket/)
   * viewer for Sentinel (1,2,3), Landsat-8, SPOT and Pleiades imagery
 
 * [**mundialis "EO-me"**](https://www.mundialis.de/en/earth-observation-metadata-enhancer/)
@@ -180,7 +180,7 @@ Specific to Copernicus Sentinel data discovery, download and processing.
   * Opensource Python library reading Sentinel-1, 2, 3, and other optical and SAR sensors - loading and stacking bands in a sensor-agnostic way
 * [**`ACOLITE`**](https://github.com/acolite/acolite) ⭐ 253 | 🐛 47 | 🌐 Python | 📅 2026-10-07
   * atmospheric correction algorithms for aquatic applications of Landsat and Sentinel-2
-* [**`FORCE Processing Framework`**](https://github.com/davidfrantz/force) ⭐ 203 | 🐛 20 | 🌐 C | 📅 2026-09-29
+* [**`FORCE Processing Framework`**](https://github.com/davidfrantz/force) ⭐ 203 | 🐛 20 | 🌐 C | 📅 2026-10-16
   * Generate analysis ready data for Sentinel-2 and Landsat-4/5/7/8/9 (including atmospheric correction and homogenization of Sentinel-2 and Landsat data)
 * [**`sen2r`**](https://github.com/ranghetti/sen2r) ⭐ 166 | 🐛 1 | 🌐 R | 📅 2024-03-27
   * R toolbox to search, download and pre-process Sentinel-2 data
@@ -228,4 +228,4 @@ Products, datasets and applications generated from Copernicus Sentinel data.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
