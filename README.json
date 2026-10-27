@@ -74,8 +74,8 @@
                 "id": 203819248,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T16:17:38Z",
-                "open_issues": 181,
+                "last_commit": "2026-10-27T15:45:11Z",
+                "open_issues": 173,
                 "owner": "CS-SI",
                 "repo": "eodag",
                 "stars": 440,
@@ -786,7 +786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T16:43:23.526Z",
+    "last_updated": "2026-10-27T15:50:03.902Z",
     "original_repository_info": {
       "archived": false,
       "description": "curated list of awesome tools, tutorials and APIs for Copernicus Sentinel satellite data",
