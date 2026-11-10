@@ -51,7 +51,7 @@
                 "open_issues": 24,
                 "owner": "sentinel-hub",
                 "repo": "sentinelhub-py",
-                "stars": 915,
+                "stars": 916,
                 "topics": [
                   "aws",
                   "ogc-services",
@@ -74,8 +74,8 @@
                 "id": 203819248,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-09T19:11:28Z",
-                "open_issues": 169,
+                "last_commit": "2026-11-10T14:03:13Z",
+                "open_issues": 170,
                 "owner": "CS-SI",
                 "repo": "eodag",
                 "stars": 441,
@@ -499,7 +499,7 @@
                 "open_issues": 4,
                 "owner": "sentinel-hub",
                 "repo": "sentinel2-cloud-detector",
-                "stars": 497,
+                "stars": 498,
                 "topics": [
                   "classification",
                   "cloud-detector",
@@ -523,10 +523,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-05T12:43:05Z",
-                "open_issues": 65,
+                "open_issues": 66,
                 "owner": "sertit",
                 "repo": "eoreader",
-                "stars": 354,
+                "stars": 356,
                 "topics": [
                   "cosmo-skymed",
                   "earth-observation",
@@ -564,7 +564,7 @@
                 "id": 336207338,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-06T01:16:55Z",
+                "last_commit": "2026-11-10T16:19:36Z",
                 "open_issues": 47,
                 "owner": "acolite",
                 "repo": "acolite",
@@ -786,7 +786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T20:38:23.634Z",
+    "last_updated": "2026-11-10T17:39:54.541Z",
     "original_repository_info": {
       "archived": false,
       "description": "curated list of awesome tools, tutorials and APIs for Copernicus Sentinel satellite data",
