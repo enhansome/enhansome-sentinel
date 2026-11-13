@@ -74,8 +74,8 @@
                 "id": 203819248,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-12T17:14:12Z",
-                "open_issues": 167,
+                "last_commit": "2026-11-13T15:13:16Z",
+                "open_issues": 168,
                 "owner": "CS-SI",
                 "repo": "eodag",
                 "stars": 441,
@@ -358,7 +358,7 @@
                     "id": 25121303,
                     "language": "PHP",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-06T16:33:22Z",
+                    "last_commit": "2026-11-13T15:03:27Z",
                     "open_issues": 6,
                     "owner": "jjrom",
                     "repo": "resto",
@@ -499,7 +499,7 @@
                 "open_issues": 4,
                 "owner": "sentinel-hub",
                 "repo": "sentinel2-cloud-detector",
-                "stars": 498,
+                "stars": 499,
                 "topics": [
                   "classification",
                   "cloud-detector",
@@ -568,7 +568,7 @@
                 "open_issues": 47,
                 "owner": "acolite",
                 "repo": "acolite",
-                "stars": 256,
+                "stars": 257,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:09.361Z"
@@ -786,7 +786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T18:08:03.295Z",
+    "last_updated": "2026-11-13T17:38:13.022Z",
     "original_repository_info": {
       "archived": false,
       "description": "curated list of awesome tools, tutorials and APIs for Copernicus Sentinel satellite data",
