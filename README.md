@@ -86,9 +86,9 @@ Specific to Copernicus Sentinel data discovery, download and processing.
 
 * [**`sentinelsat`**](https://github.com/sentinelsat/sentinelsat) ⚠️ Archived
   * search and download from any [DHuS](https://github.com/SentinelDataHub/)-powered Datahub. Comes with an intuitive command line and a flexible Python API.
-* [**`sentinelhub-py`**](https://github.com/sentinel-hub/sentinelhub-py) ⭐ 916 | 🐛 25 | 🌐 Python | 📅 2026-11-06
+* [**`sentinelhub-py`**](https://github.com/sentinel-hub/sentinelhub-py) ⭐ 916 | 🐛 24 | 🌐 Python | 📅 2026-11-06
   * Python library for downloading Sentinel-2 data from Amazon into ESA .SAFE format and interface [Sentinel Hub OGC services](https://www.sentinel-hub.com/develop/capabilities/wms)
-* [**`eodag`**](https://github.com/CS-SI/eodag) ⭐ 441 | 🐛 164 | 🌐 Python | 📅 2026-11-22
+* [**`eodag`**](https://github.com/CS-SI/eodag) ⭐ 441 | 🐛 160 | 🌐 Python | 📅 2026-11-23
   * command line tool and plugin-oriented Python framework for search and download from [multiple providers](https://eodag.readthedocs.io/en/stable/getting_started_guide/providers.html) including all DIAS
 * [**`Sentinel-download`**](https://github.com/olivierhagolle/Sentinel-download) ⭐ 194 | 🐛 15 | 🌐 Python | 📅 2018-09-30
   * download Sentinel-2 data from Copernicus SciHub. Supports download of sub-tiles in the old product format (PDS <14).
@@ -101,7 +101,7 @@ Specific to Copernicus Sentinel data discovery, download and processing.
   * Sentinel-2 satellite tiles images downloader from Copernicus. Minimizes data download and combines multiple tiles to return a single area of interest
 * [**`sat-download`**](https://github.com/sat-utils/sat-download) ⭐ 35 | 🐛 1 | 🌐 Python | 📅 2016-06-30
   * download Sentinel-2 data from AWS
-* [**`Sentinel2ProductIngestor`**](https://github.com/sinergise/Sentinel2ProductIngestor) ⭐ 32 | 🐛 0 | 🌐 Java | 📅 2017-04-21
+* [**`Sentinel2ProductIngestor`**](https://github.com/sinergise/Sentinel2ProductIngestor) ⭐ 31 | 🐛 0 | 🌐 Java | 📅 2017-04-21
   * ingest Sentinel-2 data from SciHub into S3. Used by [Sinergise](https://github.com/sinergise) to populate the [AWS Sentinel-2 mirror](http://sentinel-pds.s3-website.eu-central-1.amazonaws.com/)
 * [**`awsdownload`**](https://github.com/kraftek/awsdownload) ⭐ 20 | 🐛 2 | 🌐 Java | 📅 2018-07-16
   * downloader for Sentinel-2 products from Amazon or SciHub
@@ -180,7 +180,7 @@ Specific to Copernicus Sentinel data discovery, download and processing.
   * Opensource Python library reading Sentinel-1, 2, 3, and other optical and SAR sensors - loading and stacking bands in a sensor-agnostic way
 * [**`ACOLITE`**](https://github.com/acolite/acolite) ⭐ 258 | 🐛 47 | 🌐 Python | 📅 2026-11-20
   * atmospheric correction algorithms for aquatic applications of Landsat and Sentinel-2
-* [**`FORCE Processing Framework`**](https://github.com/davidfrantz/force) ⭐ 203 | 🐛 23 | 🌐 C | 📅 2026-11-04
+* [**`FORCE Processing Framework`**](https://github.com/davidfrantz/force) ⭐ 203 | 🐛 24 | 🌐 C | 📅 2026-11-04
   * Generate analysis ready data for Sentinel-2 and Landsat-4/5/7/8/9 (including atmospheric correction and homogenization of Sentinel-2 and Landsat data)
 * [**`sen2r`**](https://github.com/ranghetti/sen2r) ⭐ 166 | 🐛 1 | 🌐 R | 📅 2024-03-27
   * R toolbox to search, download and pre-process Sentinel-2 data
@@ -228,4 +228,4 @@ Products, datasets and applications generated from Copernicus Sentinel data.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
