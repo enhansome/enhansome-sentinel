@@ -74,8 +74,8 @@
                 "id": 203819248,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-23T16:54:58Z",
-                "open_issues": 160,
+                "last_commit": "2026-11-24T17:43:59Z",
+                "open_issues": 167,
                 "owner": "CS-SI",
                 "repo": "eodag",
                 "stars": 441,
@@ -526,7 +526,7 @@
                 "open_issues": 66,
                 "owner": "sertit",
                 "repo": "eoreader",
-                "stars": 355,
+                "stars": 356,
                 "topics": [
                   "cosmo-skymed",
                   "earth-observation",
@@ -586,7 +586,7 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-04T17:29:20Z",
-                "open_issues": 24,
+                "open_issues": 26,
                 "owner": "davidfrantz",
                 "repo": "force",
                 "stars": 203,
@@ -786,7 +786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T21:59:16.114Z",
+    "last_updated": "2026-11-24T20:35:39.276Z",
     "original_repository_info": {
       "archived": false,
       "description": "curated list of awesome tools, tutorials and APIs for Copernicus Sentinel satellite data",
